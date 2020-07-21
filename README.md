@@ -6,9 +6,9 @@ To learn the concept of internet of things in a practical-based.
   * The addition devices for collecting data, for instance DHT11 etc.
   * The webhook(Google Script, IFTTT, thingspeak) setting.
   
-* My PowerPoint
- *  [TensorFlowLite_For_IoT-Devices]()
- *  [智能小管家]()
+- My PowerPoint
+  - [TensorFlowLite_For_IoT-Devices]()
+  - [智能小管家]()
 
 ## My Project
 | No. | Project | Descroption |
