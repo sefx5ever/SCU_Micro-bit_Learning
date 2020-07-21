@@ -7,8 +7,8 @@ To learn the concept of internet of things in a practical-based.
   * The webhook(Google Script, IFTTT, thingspeak) setting.
   
 - My PowerPoint
-  - [TensorFlowLite_For_IoT-Devices]()
-  - [智能小管家]()
+  - [TensorFlowLite_For_IoT-Devices](https://github.com/sefx5ever/SCU_Micro-bit_Learning/blob/master/06170171_%E9%99%B3%E5%81%89%E5%82%91_TensorFlowLite_For_IoT-Devices.pptx)
+  - [智能小管家](https://github.com/sefx5ever/SCU_Micro-bit_Learning/blob/master/IoT_%E8%B5%B0%E5%87%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%89%B9%E8%89%B2%E9%9A%8A_%E5%B0%8F%E7%AE%A1%E5%AE%B6.pptx)
 
 ## My Project
 | No. | Project | Descroption |
