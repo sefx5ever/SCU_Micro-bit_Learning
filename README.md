@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Lesson : Introduction of Internet of Things
+To learn the concept of internet of things in a practical-based.
 
-You can use the [editor on GitHub](https://github.com/sefx5ever/SCU_Micro-bit_Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* What do I learn:
+  * The fundamental of Micro:bit and how it work.
+  * The addition devices for collecting data, for instance DHT11 etc.
+  * The webhook(Google Script, IFTTT, thingspeak) setting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sefx5ever/SCU_Micro-bit_Learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## My Project
+| No. | Project | Descroption |
+| --- | --- | --- |
+| 1. | DHT11_警告燈.js | The DHT11 will collect the humidity and the micro bit collect the temperature. The bulb will light up in red color when the temperature is over 32 degrees celsius, otherwise, it shows in green light. |
+| 2. | javascript_LED字串顯示.js | The micro bit like a namecard, it show my personal detail. |
+| 3. | 創意紅綠燈.js | The micro bit will run forever on showing the traffic light accordingly by LED bulb. |
+| 4. | 圓周長圓面積.js | The mircro bit run in backend on calculating the surface and the area of a circle. |
+| 5. | 外接LED呼吸燈.js | The LED bulb will ligh in a giving pattern. |
+| 6. | 指南針.js | The micro bit will automatically detect the direction and show the current position. |
+| 7. | 擴充LED夜燈.js | The basic manipulation on LED bulb. | 
+| 8. | 星空中的螢火蟲.js | The LED will light up permanently when it detect current position. |
+| 9. | 智能小管家.js | A functional assistant which can be a timer, game, temperature management, etc. |
+| 10. | 水平儀.js | An X-axis floating game. |
+| 11. | 洗澡的溫濕度.js | Automatically detech the temperature and humidity, then upload to google sheet. |
+| 12. | 計時器.js | A stupid timer. |
